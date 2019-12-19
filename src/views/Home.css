@@ -1,0 +1,14 @@
+.home-view-background {
+  position: absolute;
+  background-size: cover;
+  width: 100%;
+  min-height: 100%;
+}
+
+.home-content {
+  position: relative;
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-gap: 45px;
+}
