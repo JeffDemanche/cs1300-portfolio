@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa2341ae.chunk.css",
+    "main.js": "/static/js/main.c810bf7f.chunk.js",
+    "main.js.map": "/static/js/main.c810bf7f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dfd5373.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dfd5373.js.map",
+    "static/js/2.f8a2924b.chunk.js": "/static/js/2.f8a2924b.chunk.js",
+    "static/js/2.f8a2924b.chunk.js.map": "/static/js/2.f8a2924b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dacd8458dd491563882e632583c59ff0.js": "/precache-manifest.dacd8458dd491563882e632583c59ff0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fa2341ae.chunk.css.map": "/static/css/main.fa2341ae.chunk.css.map",
+    "static/js/2.f8a2924b.chunk.js.LICENSE": "/static/js/2.f8a2924b.chunk.js.LICENSE",
+    "static/media/insta.png": "/static/media/insta.23fac947.png",
+    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
+    "static/media/me.jpg": "/static/media/me.99891c96.jpg",
+    "static/media/mylk-2.PNG": "/static/media/mylk-2.c2821b75.PNG",
+    "static/media/mylk-3.PNG": "/static/media/mylk-3.fba92f70.PNG",
+    "static/media/mylk.png": "/static/media/mylk.7498ca0d.png",
+    "static/media/post.png": "/static/media/post.a8de7362.png",
+    "static/media/prov-background.jpg": "/static/media/prov-background.a6a48464.jpg",
+    "static/media/tvfinder.PNG": "/static/media/tvfinder.7ec6d8c9.PNG",
+    "static/media/twitter.png": "/static/media/twitter.bdda731e.png",
+    "static/media/uiux-2.PNG": "/static/media/uiux-2.2b6dc127.PNG",
+    "static/media/uiux.PNG": "/static/media/uiux.5e4b2ec8.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dfd5373.js",
+    "static/js/2.f8a2924b.chunk.js",
+    "static/css/main.fa2341ae.chunk.css",
+    "static/js/main.c810bf7f.chunk.js"
+  ]
+}
